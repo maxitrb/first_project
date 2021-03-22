@@ -1,0 +1,76 @@
+body{
+    background: #eaeaea;
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #555555;
+
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.container {
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+
+
+
+.container1 {
+    margin: 0 auto;
+    margin-top: 120px;
+    background-color: #ffffff;
+    width: 1120px;
+    height: 125px;
+    background-repeat: no-repeat;
+    padding: 45px 94px;
+    text-transform: uppercase;
+
+
+}
+span{
+    margin-left: 94px;
+    margin-right: 23px;
+    vertical-align: 10px;
+    }
+.span1{
+    vertical-align: 10px;
+}
+.span2{
+    margin-right: 23px;
+    margin-left: 23px;
+    margin-inside: 56px;
+    vertical-align: 10px;
+}
+.span3{
+    vertical-align: 10px;
+}
+.span4{
+    margin-left: 23px;
+    margin-right: 56px;
+    vertical-align: 10px;
+}
+
+
+
+
+.container2 {
+    margin: 0 auto;
+    margin-top: 85px;
+    width: 1128px;
+    height: 449px;
+    background-image: url("../images/pie.png");
+}
+
+
+
+
+
+
+
+
